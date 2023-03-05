@@ -1,3 +1,9 @@
+- 🔭 I’m currently working on live project to improve my skills on data analytics
+- 🌱 I’m currently learning Structured Query Language (SQL).
+- 👯 I’m looking to collaborate on open source project on data analytics and building sustainable development goal.
+- 🤔 I’m looking for help with learning more and collaborating with people in the data space.
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: I love watching movies and reading self development books. 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0NmE1NjY3MWU2NjViN2U4OGM4YjFkODFhMzI3N2IyMmIyMmUwZCZjdD1z/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"/>
 <div id="badges"> 
@@ -16,14 +22,3 @@
 </h1>
 
 <!--
-**Olajumoke-Johnson/Olajumoke-Johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on live project to improve my skills on data analytics
-- 🌱 I’m currently learning Structured Query Language (SQL).
-- 👯 I’m looking to collaborate on open source project on data analytics and building sustainable development goal.
-- 🤔 I’m looking for help with learning more and collaborating with people in the data space.
-- 😄 Pronouns: Her/She
-- ⚡ Fun fact: I love watching movies and reading self development books. 
--->
